@@ -1,0 +1,47 @@
+body{
+background-color: #000000;
+}
+#logo{
+    width: 20%;
+    margin-top: 0vh;
+    float:left;
+    
+}
+#personagem{
+    width: 30%;
+    float: left;
+    border-radius: 200px;
+}
+
+article{
+background-color: #ffffff;
+width: 50%;
+margin-top: 5vh;
+margin-left: 25%;
+margin-right: 25%;
+height: 56vh;
+float: right;
+
+}
+
+article h1{
+margin-left: 1%;
+float:left;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+article p{
+margin-left: 31%;
+margin-top: 12vh;
+
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+article button{
+    display: inline;
+    padding: 0vh 2%;
+    background-color: #bd0000;
+    line-height: 7vh;
+    margin-left: 31%;
+}
+   
+   
